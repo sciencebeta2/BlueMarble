@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1732197363 source:c:\users\woochanyi\desktop\cg_pr\programming_console_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<Windows.h>
+
+1732200684 source:c:\users\woochanyi\desktop\cg_pr\programming_console_game\test.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1732197394 source:c:\users\woochanyi\desktop\cg_pr\programming_console_game\testing.c
+	<stdio.h>
+
